@@ -10,14 +10,14 @@
 <br/>
 
 - [ ] Tuần 1 + 2
-    - [ ] Tìm hiểu quy trình quản lý tại Resort
-    - [ ] Thu thập các thông tin, dữ liệu cho quy trình dịch vụ tại resort.
-    - [ ] Xây dựng sơ đồ Use Case nghiệp vụ.
-    - [ ] Xác định các thừa tác viên, thực thể nghiệp vụ.
+    - [x] Tìm hiểu quy trình quản lý tại Resort
+    - [x] Thu thập các thông tin, dữ liệu cho quy trình dịch vụ tại resort.
+    - [x] Xây dựng sơ đồ Use Case nghiệp vụ.
+    - [x] Xác định các thừa tác viên, thực thể nghiệp vụ.
     - [ ] Mô hình hóa quy trình nghiệp vụ bằng sơ đồ hoạt động.
-    - [ ] Xây dựng sơ đồ Use Case hệ thống.
+    - [x] Xây dựng sơ đồ Use Case hệ thống.
     - [ ] Đặc tả các Use Case hệ thống.
-    - [ ] Xây dựng sơ đồ lớp mức phân tích."
+    - [ ] Xây dựng sơ đồ lớp mức phân tích.
 - [ ] Tuần 3
     - [ ] Thiết kế cơ sở dữ liệu.
 	- [ ] Biểu diễn các ràng buộc toàn vẹn.
